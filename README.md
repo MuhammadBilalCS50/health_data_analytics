@@ -1,4 +1,4 @@
-# Dietary Aflatoxin Risk Assessment
+# Health Data Analytics
 
 A statistical health-data analysis of dietary aflatoxin exposure from wheat, rice, and milk consumption. The project turns 192 survey responses into estimated daily intake (EDI), margin of exposure (MOE), and a cancer-risk proxy, then evaluates how those measures vary across demographic groups.
 
